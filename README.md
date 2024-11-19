@@ -1,9 +1,9 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/sungbin38?pet-id=646567427750229703"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/sungbin38"
+  width="600"
+  height="300"
+/>
 </a>
   
 
