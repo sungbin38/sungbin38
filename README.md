@@ -1,4 +1,11 @@
-## Hi there 👋
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/sungbin38?pet-id=646567427750229703"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!--
 **sungbin38/sungbin38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
